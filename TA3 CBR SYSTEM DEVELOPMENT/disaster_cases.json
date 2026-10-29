@@ -1,0 +1,98 @@
+[
+    {
+        "case_id": 1,
+        "name": "Typhoon Ursula - Sample Case",
+        "problem": {
+            "disaster_type": "typhoon",
+            "flood_severity": "high",
+            "location_type": "coastal",
+            "affected_population": 3000
+        },
+        "solution": {
+            "evacuation": "Evacuate residents in high-risk coastal and flood-prone zones.",
+            "shelter": "Prepare temporary shelters and confirm safe capacity.",
+            "resources": "Prioritize rescue boats, food, drinking water, and first-aid supplies."
+        }
+    },
+    {
+        "case_id": 2,
+        "name": "Urban Flooding - Sample Case",
+        "problem": {
+            "disaster_type": "flood",
+            "flood_severity": "high",
+            "location_type": "urban",
+            "affected_population": 5000
+        },
+        "solution": {
+            "evacuation": "Move residents from deeply flooded streets and low-lying neighborhoods.",
+            "shelter": "Open accessible evacuation centers and check their remaining capacity.",
+            "resources": "Prioritize rescue vehicles, clean water, food packs, and medical supplies."
+        }
+    },
+    {
+        "case_id": 3,
+        "name": "Rural River Flood - Sample Case",
+        "problem": {
+            "disaster_type": "flood",
+            "flood_severity": "moderate",
+            "location_type": "rural",
+            "affected_population": 1200
+        },
+        "solution": {
+            "evacuation": "Move households near the river to designated safe areas when advised by authorities.",
+            "shelter": "Prepare a nearby community shelter and transport assistance.",
+            "resources": "Prepare drinking water, food packs, first-aid kits, and transport support."
+        }
+    },
+    {
+        "case_id": 4,
+        "name": "Coastal Storm Surge - Sample Case",
+        "problem": {
+            "disaster_type": "typhoon",
+            "flood_severity": "moderate",
+            "location_type": "coastal",
+            "affected_population": 2200
+        },
+        "solution": {
+            "evacuation": "Issue early warnings and move residents away from storm-surge risk areas.",
+            "shelter": "Prepare inland evacuation centers and transportation.",
+            "resources": "Prepare communication equipment, food, water, and first-aid supplies."
+        }
+    },
+    {
+        "case_id": 5,
+        "name": "Low-Severity Urban Flood - Sample Case",
+        "problem": {
+            "disaster_type": "flood",
+            "flood_severity": "low",
+            "location_type": "urban",
+            "affected_population": 800
+        },
+        "solution": {
+            "evacuation": "Monitor flood-prone streets and advise residents to move if conditions worsen.",
+            "shelter": "Identify a nearby safe location and keep evacuation centers on standby.",
+            "resources": "Prepare warning messages, drinking water, basic first aid, and transport if needed."
+        }
+    },
+    {
+        "case_id": 6,
+        "name": "New Urban Typhoon",
+        "problem": {
+            "disaster_type": "typhoon",
+            "flood_severity": "high",
+            "location_type": "urban",
+            "affected_population": 5000
+        },
+        "solution": {
+            "evacuation": "Prioritize urgent evacuation from high-risk areas. Coordinate with local emergency officials for approximately 5,000 potentially affected people. Prioritize low-lying streets, drainage bottlenecks, and densely populated areas.",
+            "shelter": "Urgently confirm sufficient shelter capacity for up to 5,000 people, including accessible facilities and safe transport.",
+            "resources": "Prioritize rescue teams, safe transport, drinking water, food, first-aid supplies, and reliable emergency communications. Monitor official typhoon, rainfall, and wind advisories.",
+            "adapted_from": "Typhoon Ursula - Sample Case",
+            "reference_solution": {
+                "evacuation": "Evacuate residents in high-risk coastal and flood-prone zones.",
+                "shelter": "Prepare temporary shelters and confirm safe capacity.",
+                "resources": "Prioritize rescue boats, food, drinking water, and first-aid supplies."
+            }
+        }
+    }
+]
